@@ -1,0 +1,41 @@
+body{
+    background: #ebebe0;
+}
+
+h1{
+    color:#99ff33 ;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:4px 4px 4px #000000;
+    background-color:#a9a9a9 ;
+}
+h2{
+    color:  #2db300;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    background-color:#000000 ;
+    
+}
+
+h4{
+    color: #223300;
+    text-align: justify;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.enlaces{
+    color:#ff0000;
+    text-decoration: underline #ff0000;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 600;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    border:10px solid #006600;
+}
